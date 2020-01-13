@@ -2,6 +2,11 @@
 # yarn lockfile v1
 
 
+"colors@>= 0.3.0":
+  version "1.4.0"
+  resolved "https://registry.yarnpkg.com/colors/-/colors-1.4.0.tgz#c50491479d4c1bdaed2c9ced32cf7c7dc2360f78"
+  integrity sha512-a+UqTh4kgZg/SlGvfbzDHpgRu7AAQOmmqRHJnxhRZICKFUT91brVhNNt58CMWU9PsBbv3PDCZUHbVxuDiH2mtA==
+
 cross-spawn@^6.0.0:
   version "6.0.5"
   resolved "https://registry.yarnpkg.com/cross-spawn/-/cross-spawn-6.0.5.tgz#4a5ec7c64dfae22c3a14124dbacdee846d80cbc4"
@@ -85,6 +90,13 @@ path-key@^2.0.0, path-key@^2.0.1:
   version "2.0.1"
   resolved "https://registry.yarnpkg.com/path-key/-/path-key-2.0.1.tgz#411cadb574c5a140d3a4b1910d40d80cc9f40b40"
   integrity sha1-QRyttXTFoUDTpLGRDUDYDMn0C0A=
+
+play@^0.5.0:
+  version "0.5.0"
+  resolved "https://registry.yarnpkg.com/play/-/play-0.5.0.tgz#f814e67163de29de7b9d9e905df8389ae4ea6347"
+  integrity sha1-+BTmcWPeKd57nZ6QXfg4muTqY0c=
+  dependencies:
+    colors ">= 0.3.0"
 
 pump@^3.0.0:
   version "3.0.0"

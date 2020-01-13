@@ -18,7 +18,8 @@
   },
   "license": "MIT",
   "dependencies": {
-    "loudness": "^0.3.0"
+    "loudness": "^0.3.0",
+    "play": "^0.5.0"
   },
   "devDependencies": {},
   "engines": {
