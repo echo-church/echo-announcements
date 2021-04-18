@@ -1,0 +1,6 @@
+{
+    "cronEnabled": "false",
+    "cron_1": "25 10 * * 7",
+    "cron_2": "35 17 * * *",
+    "file": "5_min.mp3"
+}

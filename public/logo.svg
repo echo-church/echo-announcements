@@ -1,4 +1,95 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 261.8 226.7">
-  <path fill="#41b883" d="M161.1 0l-30.2 52.4L100.6 0H0l130.9 226.7L261.7 0z"/>
-  <path fill="#34495e" d="M161.1 0l-30.2 52.4L100.6 0H52.3L131 136 209.4 0z"/>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+        xmlns:dc="http://purl.org/dc/elements/1.1/"
+        xmlns:cc="http://creativecommons.org/ns#"
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:svg="http://www.w3.org/2000/svg"
+        xmlns="http://www.w3.org/2000/svg"
+        xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+        xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+        inkscape:version="1.0beta2 (2b71d25, 2019-12-03)"
+        height="48"
+        width="48"
+        sodipodi:docname="echo-logo.svg"
+        id="svg851"
+        version="1.1"
+        viewBox="0 0 48 48">
+  <style
+          id="style857"></style>
+  <metadata
+          id="metadata855">
+    <rdf:RDF>
+      <cc:Work
+              rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+                rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+          inkscape:current-layer="svg851"
+          inkscape:window-maximized="1"
+          inkscape:window-y="385"
+          inkscape:window-x="0"
+          inkscape:cy="31.948342"
+          inkscape:cx="11.685535"
+          inkscape:zoom="5.5910449"
+          showgrid="false"
+          id="namedview853"
+          inkscape:window-height="1027"
+          inkscape:window-width="1920"
+          inkscape:pageshadow="2"
+          inkscape:pageopacity="0"
+          guidetolerance="10"
+          gridtolerance="10"
+          objecttolerance="10"
+          borderopacity="1"
+          inkscape:document-rotation="0"
+          bordercolor="#666666"
+          pagecolor="#ffffff" />
+  <defs
+          id="defs840">
+    <style
+            id="style835">.a{clip-path:url(#b);}.b{fill:#fff;}</style>
+    <clipPath
+            id="b">
+      <rect
+              y="0"
+              x="0"
+              id="rect837"
+              height="900"
+              width="900" />
+    </clipPath>
+  </defs>
+  <g
+          transform="matrix(0.05113909,0,0,0.05113909,0.9874095,0.96183995)"
+          style="fill:#000000"
+          clip-path="url(#b)"
+          class="a"
+          id="a">
+    <g
+            style="fill:#000000"
+            id="g848"
+            transform="translate(-90,-90)">
+      <g
+              style="fill:#000000"
+              id="g846"
+              transform="translate(47,1028)">
+        <path
+                inkscape:connector-curvature="0"
+                style="fill:#000000"
+                id="path842"
+                d="m 450,-793 v 109 H 227 v 19 l 120.8,-0.2 120.7,-0.3 0.3,-118.3 0.2,-118.2 h -19 z"
+                class="b" />
+        <path
+                inkscape:connector-curvature="0"
+                style="fill:#000000"
+                id="path844"
+                d="m 517,-345 v 272 h 19 v -526 h 223 v -18 H 517 Z"
+                class="b" />
+      </g>
+    </g>
+  </g>
 </svg>
