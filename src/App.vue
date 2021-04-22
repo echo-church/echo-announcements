@@ -3,12 +3,6 @@
     <header class="App-header">
       <img src="/logo.svg" class="App-logo" alt="logo"/>
       <h2>ECHO announcements</h2>
-      <Toggle
-          v-model="scheduler.value"
-          id="example2"
-          on-label="On"
-          off-label="Off"
-      />
       <a
           class="App-link"
           @click="announcements('5_min.mp3')"
@@ -19,11 +13,6 @@
       >0 min</a>
       <br>
       <h2>Spotify</h2>
-      <div>
-        <Slider v-model="volume.value"
-                id="volume"/>
-      </div>
-
       <a
           class="App-link"
           @click="spotifyVolume(0)"
@@ -40,12 +29,6 @@
           class="App-link"
           @click="spotifyToggle()"
       >Play/Pause</a>
-      <Toggle
-          v-model="spotify.value"
-          id="spotify"
-          on-label="Play"
-          off-label="Pause"
-      />
     </header>
   </div>
 </template>
