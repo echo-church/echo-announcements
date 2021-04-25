@@ -19,12 +19,12 @@
       >Mute</a>
       <a
           class="App-link"
-          @click="spotifyVolume(70)"
-      >Volume 70</a>
+          @click="spotifyVolume(55)"
+      >Volume 55</a>
       <a
           class="App-link"
-          @click="spotifyVolume(99)"
-      >Volume 100</a>
+          @click="spotifyVolume(85)"
+      >Volume 85</a>
       <a
           class="App-link"
           @click="spotifyToggle()"
