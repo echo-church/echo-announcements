@@ -63,12 +63,12 @@ app.post('/api/spotify/volume', (req, res) => {
     return res.send(`volume: ${volume}`);
 });
 
-function playAudio(file = '0_min.mp3') {
+function playAudio(file = './audio/0_min.mp3') {
     // play with a callback
     // play.sound('./audio/' + file, function () {
     //   console.log('play');
     // });
-    exec(`play ${file}`, (error, stdout, stderr) => {
+    exec(`play ./audio/${file}`, (error, stdout, stderr) => {
         if (error) {
             console.log(`error: ${error.message}`);
         }
